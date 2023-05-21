@@ -1,6 +1,6 @@
 If you have further assistance for theme setup:
 
-Kriya | Yoga WordPress Themes
+Capstone Project for ICT-729 : Yoga with Meshes 
 
 1. Help Documentation
 
