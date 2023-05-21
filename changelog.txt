@@ -1,0 +1,177 @@
+***Kriya WordPress Theme Changelog ***
+
+2022.11.12 - version 3.3
+
+* Compatible with WordPress 6.1
+* Compatible with latest WooCommerce versions
+* Compatible with PHP 8.1 version
+* Updated: All premium plugins
+
+2022.07.19 - version 3.2
+
+* Compatible with wordpress 6.0.x
+
+2021.12.22 - version 3.1
+
+* Updated Wpbakery compatible issue
+
+2021.08.23 - version 3.0
+
+* Compatible with wordpress 5.8
+
+2021.05.18 - version 2.9
+
+* Some design issue updated
+
+2020.12.14 - version 2.8
+
+* Latest jQuery fixes updated
+* Updated: All premium plugins
+
+2020.08.14 - version 2.7
+
+* Compatible with wordpress 5.5
+
+2020.07.31 - version 2.6
+
+* Updated: Envato Theme check
+* Updated: sanitize_text_field added
+* Updated: All wordpress theme standards
+* Updated: All premium plugins
+
+2020.07.17 - version 2.5
+
+* Compatible with wordpress 5.4.2
+* Updated: Some design tweaks
+* Updated: Courses and Poses filter sorting issue
+* Updated: Portfolio slider image issue
+* Updated: Image size option added for Blog, Course and Pose shortcode
+
+2020.06.12 - version 2.4
+
+* Fixed : Events calendar page html issue
+* Fixed : View Cart link issue
+
+2020.06.12 - version 2.3
+
+* Fixed : Menu flickering issue
+
+2020.02.12 - version 2.2
+
+* Updated : All premium plugins
+
+2020.01.29 - version 2.1
+
+* Compatible with wordpress 5.3.2
+* Updated: All premium plugins
+* Updated: All wordpress theme standards
+
+2019.07.30 - version 2.0
+
+* Compatible with wordpress 5.2.2
+* Updated: All premium plugins
+* Updated: Revisions added to all custom post types
+* Updated: Gutenberg editor support for custom post types
+* Updated: Online documentation link, check readme file
+
+* Fixed: Google Analytics issue
+* Fixed: Gutenberg check for old wordpress version
+* Fixed: Edit with Visual Composer for portfolio
+* Fixed: Smooth scrolling in ie 11
+
+* Improved: Single product breadcrumb section
+* Improved: Tags taxonomy added for portfolio
+
+* New: Whatsapp Shortcode
+
+
+2019.06.10 - version 1.9
+
+ * Gutenberg Latest update compatible
+ * Fixed - GDPR Product single page comment box issue
+ * Fixed - Animation issue
+ * Fixed - undefined constant issue
+ * Updated wpml xml file
+ * Updated latest version of all third party plugins
+ * Updated - language pot files
+ * Some design tweaks
+
+2018.12.26 - version 1.8
+
+* Latest wordpress version 5.0.2 compatible
+* Updated latest version of all third party plugins
+* Fix - Iphone sidebar issue
+* Updated documentation
+
+2018.29.09 - version 1.7
+
+* Fix - Updated Plugin files included
+* Fix - PO File updated.
+* GDPR update
+* Compatible with WordPress 4.9.8
+
+
+2018.05.03 - version 1.6
+
+* Updated all third party plugins
+* Fix - Unyson page builder conflicts with "Visual Composer" and "DesignThemes Page Builder"
+* Fix - Bulk Install plugins issue.
+* Fix - All theme functions updated for child theme support
+* Fix - Option for change the site title color
+* Fix - Add target attribute for social media
+* Fix - PO File updated.
+* Fix - Nav Menu Role Pluign compatible.
+* Fix - disable link option for menu
+* Fix - Event Calendar date time display issue
+* Fix - ssl video player issue
+* Fix - Blog page design tweaks
+
+
+2017.09.12 - version 1.5
+ * Compatible with WorPress 4.8.1
+ * Included Layer slider version 6.5.8
+ * Included WPBakery Visual Composer version 5.2.1
+ * Compatible with PHP 7
+ * Fixed Warning issues
+ * Updated documentation
+ * Updated .po file
+ * Updated Font awesome icons - 4.7.0
+
+2017.06.21 - version 1.4.4
+* Added demo content using unyson
+* Updated Core Plugin
+
+2017.05.31 - version 1.4.3
+* Fixed Pricing Table
+* Fixed Nice Scroll Issue
+* Fixed Admin panel color picker
+* Fixed Event Calender
+
+2017.05.19 - version 1.4.2
+* Fixed layer and revolution slider installation issues.
+
+2017.05.09 - version 1.4.1
+* WooCommerce 3.0.5 compatible
+
+2017.03.30 - version 1.4
+* Compatible with WorPress 4.7.3
+* Added Therapist custom post type and Certificate shortcode
+* Fixed Header Dark-BG issue
+* Fixed Header background issue in Bpanel
+* Added Indian rupees currency for Course prices
+
+2016.12.13 - version 1.3
+* Added Recent Post Module in Visual Composer
+* Fixed Static Blog Page issue with Right Sidebar
+* Updated Core Plugin
+
+2016.09.16 - version 1.2
+* Now SSL compatible
+* Added global Page and Post layout option
+
+2016.08.19 - version 1.1
+* Compatible with WorPress 4.6
+* Updated loader option
+
+2016.07.26 - version 1.0
+ * First release!
