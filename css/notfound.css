@@ -1,0 +1,26 @@
+@charset "utf-8";
+/* CSS Document */
+
+/*.container.fill-container { width:100%; } */
+
+/*=================== 404 ====================*/
+
+html { height: 100%; }
+
+.error404 .vc_row.vc-default-row { margin-left:0; }
+
+.error404, .error404 > .wrapper { width:100%; height:100%; }
+
+.center-content-wrapper { display:table; width:100%; height:100%; text-align: center; }
+.center-content-wrapper .center-content { display:table-cell; width:100%; height:100%; vertical-align:middle; }
+
+
+/***** Type8 *****/
+.error404.type8 h3 { font-family: 'Raleway', sans-serif; font-size: 100px; font-weight:100; letter-spacing: 20px; line-height: 75px; margin-bottom:0; position:relative; text-transform: uppercase; z-index:1; }
+.error404.type8 h2 { font-family: 'Rosario', sans-serif; font-size: 150px; font-weight: bold; letter-spacing: 5px; line-height: 150px; margin-bottom: 10px; position: relative; top: -30px; }
+.error404.type8 h4 { font-family: 'Rosario', sans-serif; font-size:42px; line-height: normal; letter-spacing: 10px; margin-bottom: 25px; text-transform: uppercase; }
+
+.error404.type8 .error-text { font-size: 20px; font-style:normal; line-height: 42px; }
+
+.error404.type8 .dt-sc-button { background-color: #000000; color: #ffffff; display: inline-block; padding: 10px 20px; }
+.error404.type8 .dt-sc-button:hover { background-color: rgba(0, 0, 0, 0.75); }

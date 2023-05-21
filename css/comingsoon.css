@@ -1,0 +1,41 @@
+@charset "utf-8";
+/* CSS Document */
+
+.under-construction .wrapper > .vc_row, .under-construction .vc_row > .container { width:100%; height:100%; padding:0; }
+.under-construction .vc_row > .container > .wpb_column, .under-construction .vc_row > .container > .wpb_column > .wpb_wrapper { height:100%; padding:0; }
+.under-construction .wrapper .vc_row.vc-default-row { margin-left:0; }
+.under-construction .wrapper .vc_row.vc-default-row .wpb_column.vc_col-sm-6 { padding:0; }
+.uc_margin { margin-bottom:0; }
+
+/*** Under construction ***/
+.under-construction.type7 { text-align:center; }
+
+.under-construction .dt_ajax_subscribe_msg { color:#ff0000; }
+
+
+/*** Type7 ***/
+
+.under-construction.type7 .dt-sc-counter-wrapper { display: inline-block; padding: 20px 20px 17px; min-width: 77px; -webkit-transition:all 0.3s linear; -moz-transition:all 0.3s linear; -o-transition:all 0.3s linear; -ms-transition:all 0.3s linear; transition:all 0.3s linear; }
+
+.under-construction.type7 .downcount { position:relative; }
+
+.under-construction.type7 h1.vc_custom_heading, .under-construction.type7 .counter-icon-wrapper .dt-sc-counter-number { font-family: "Bree Serif", sans-serif; }
+.under-construction.type7 h2.vc_custom_heading { font-family: "Rosario", sans-serif; }
+
+.under-construction.type7 .counter-icon-wrapper .dt-sc-counter-number { font-size: 64px; margin-bottom: 20px; }
+.under-construction.type7 .downcount h3 { font-size: 16px; margin-bottom: 0; }
+
+.under-construction.type7 .dt-sc-newsletter-section input[type="email"] { background:#eeeeee; width:100%; margin-right:0; height:50px; }
+.under-construction.type7 .dt-sc-newsletter-section form input[type="submit"] { margin-top:0; position:absolute; top:0; right:0; height:50px; }
+
+.under-construction.type7 h1.vc_custom_heading { font-size: 48px; font-weight: normal; letter-spacing: 0.45em; }
+.under-construction.type7 h2.vc_custom_heading { font-size: 42px; font-weight: bold; line-height: normal; }
+
+.under-construction.type7 h4.vc_custom_heading { font-style: italic; font-weight: normal; letter-spacing: 1px; margin-bottom: 20px; }
+
+.under-construction.type7 .dt-sc-newsletter-form { margin: auto; width: 60%; }
+.under-construction.type7 .dt-sc-newsletter-form p input[type="email"], .under-construction.type7 .dt-sc-newsletter-form p span.icon:before { border-color: #e5dbc1; }
+.under-construction.type7 h2.vc_custom_heading, .under-construction.type7 .dt-sc-counter-wrapper h3, 
+.under-construction.type7 .dt-sc-newsletter-form p input[type="email"], .under-construction.type7 .dt-sc-newsletter-form p span.icon { color: #e5dbc1; }
+
+.under-construction.type7, .under-construction.type7 h1, .under-construction.type7 h2, .under-construction.type7 .counter-icon-wrapper .dt-sc-counter-number { color:#fff; }
